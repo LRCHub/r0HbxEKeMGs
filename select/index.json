@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "KNOT",
+  "base_artist": "DOLLCHESTRA",
+  "createdAt": "2026-02-22T17:31:03.114587Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Knot Comes Loose",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/01_Knot_Comes_Loose_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Constant Knot",
+      "artist": "City and Colour",
+      "has_synced": true,
+      "path": "select/02_Constant_Knot_City_and_Colour.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly That Knot (feat. Mf Doom)",
+      "artist": "Talib Kweli feat. MF DOOM",
+      "has_synced": true,
+      "path": "select/03_Fly_That_Knot_(feat._Mf_Doom)_Talib_Kweli_feat._MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly That Knot (Feat. DOOM)",
+      "artist": "Talib Kweli",
+      "has_synced": true,
+      "path": "select/04_Fly_That_Knot_(Feat._DOOM)_Talib_Kweli.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Untie the Knot",
+      "artist": "Bad Company",
+      "has_synced": false,
+      "path": "select/05_Untie_the_Knot_Bad_Company.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hexen Definitive / Strife Knot",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/06_Hexen_Definitive___Strife_Knot_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hexen Definitive \u0000 Strife Knot",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/07_Hexen_Definitive_\u0000_Strife_Knot_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Untying The Knot",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/08_Untying_The_Knot_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Fight Song (Slip Knot Remix)",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/09_The_Fight_Song_(Slip_Knot_Remix)_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This knot",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/10_This_knot_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Constant Knot (Horns Demo)",
+      "artist": "City and Colour",
+      "has_synced": true,
+      "path": "select/11_Constant_Knot_(Horns_Demo)_City_and_Colour.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Constant Knot (Quiet Demo)",
+      "artist": "City and Colour",
+      "has_synced": true,
+      "path": "select/12_Constant_Knot_(Quiet_Demo)_City_and_Colour.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Knot Comes Untied",
+      "artist": "Sara Evans",
+      "has_synced": false,
+      "path": "select/13_The_Knot_Comes_Untied_Sara_Evans.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KNOT",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/pl_01_KNOT_DOLLCHESTRA.txt"
+    }
+  ]
+}
